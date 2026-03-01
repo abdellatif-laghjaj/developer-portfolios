@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1519
+## Current Portfolio Count: 1522
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -748,7 +748,7 @@ This repo can serve as inspiration for your portfolio!
 - [Johnny Gérard](https://www.jgerard.dev) [Frontend Engineer]
 - [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
-- [Joop Munguia](https://my-portfolio1-nine-sage.vercel.app/) [Full Stack Developer | cybersecurity Enthusiast]
+- [Joop Munguia](https://my-portfolio1-nine-sage.vercel.app) [Full Stack Developer | cybersecurity Enthusiast]
 - [Jorge Cortés](https://jorgecortes.dev) [Full Stack Developer]
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
@@ -1541,8 +1541,8 @@ This repo can serve as inspiration for your portfolio!
 - [Viren Hirpara](https://www.virenhirpara.com) [Python Developer | Digital Forensic Expert]
 - [Vishal Bhangare](https://vishalbhangare.netlify.app)
 - [Vishal Bhosle](https://vishalb.dev) [Expert Full Stack Software Developer]
-- [Vishal Rai](https://vishalrai.netlify.app)
 - [Vishal Kumar Singh](https://vishalvoid.com) [Full Stack Developer]
+- [Vishal Rai](https://vishalrai.netlify.app)
 - [Vishal Singh](https://vi5hal.vercel.app) [Full Stack Developer (Mern)]
 - [Vishnu Sharma](https://vs-code-cloud.github.io)
 - [Vishwanath](https://frozenhearth.vercel.app)
