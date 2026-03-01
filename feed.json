@@ -340,10 +340,6 @@
     "url": "https://aditiarya.netlify.app",
     "tagline": "Software Engineer"
   },
-  {"name":"Aditya Kumar",
-  "url": "https://portfolio0728.netlify.app/",
-  "tagline":"Software web & mobile Developer - Full Stack || Ai/ml engineer || VS Code Extension Builder]"
-  },
   {
     "name": "Aditya Chaudhary",
     "url": "https://aditya-portfolio-dusky.vercel.app"
@@ -1390,10 +1386,6 @@
     "url": "https://khvorostovskyi.com"
   },
   {
-    "name": "Books Of World",
-    "url": "https://books.themukesh.com"
-  },
-  {
     "name": "Boris Edison",
     "url": "https://borisedison.in"
   },
@@ -2194,11 +2186,6 @@
   {
     "name": "Esteban Mansart",
     "url": "https://mansartesteban.vercel.app"
-  },
-  {
-    "name": "Eswar Sai Korrapati",
-    "url": "https://eswarsaiportfolio.org",
-    "tagline": "Ai/Ml Engineer"
   },
   {
     "name": "Eyad Ahmed",
@@ -3057,6 +3044,11 @@
     "tagline": "Front End Developer"
   },
   {
+    "name": "Joop Munguia",
+    "url": "https://my-portfolio1-nine-sage.vercel.app",
+    "tagline": "Full Stack Developer | cybersecurity Enthusiast"
+  },
+  {
     "name": "Jorge Cortés",
     "url": "https://jorgecortes.dev",
     "tagline": "Full Stack Developer"
@@ -3226,6 +3218,11 @@
     "tagline": "Designer & Web Developer"
   },
   {
+    "name": "Keith Guo",
+    "url": "https://dinq.me/keith",
+    "tagline": "AI Engineer"
+  },
+  {
     "name": "Keith Lau",
     "url": "https://keithlau2015.github.io/portfolio"
   },
@@ -3321,10 +3318,6 @@
     "name": "Krupal Sanchaniya",
     "url": "https://krupal-portfolio.vercel.app",
     "tagline": "Software Developer"
-  },
-  {
-    "name": "Krutarth Parmar",
-    "url": "https://kayparmar.com"
   },
   {
     "name": "Ksv Muralidhar",
@@ -3654,7 +3647,7 @@
   {
     "name": "Marciano Mavungo",
     "url": "https://marcmav.dev",
-    "tagline": "Frontend Software Engineer | vanillaJS"
+    "tagline": "Frontend Software Engineer | vanillaJS | TailwindCSS"
   },
   {
     "name": "Marco Baldini",
@@ -4267,10 +4260,6 @@
     "name": "Nidal Ghonaim",
     "url": "https://www.nidal.dev",
     "tagline": "Full Stack Developer | Designer"
-  },
-  {
-    "name": "Nihal Ahmed Nariyam",
-    "url": "https://nihalahmed.in"
   },
   {
     "name": "Nihar Das",
@@ -5659,6 +5648,11 @@
     "url": "https://shrey-asthana-portfolio.netlify.app"
   },
   {
+    "name": "Shreya Saraswat",
+    "url": "https://shreya-saraswat-portfolio.vercel.app",
+    "tagline": "Frontend Developer | ReactJs"
+  },
+  {
     "name": "Shreyas Raviprakash",
     "url": "https://portfolio-vfee.vercel.app",
     "tagline": "Full Stack Developer"
@@ -6333,6 +6327,11 @@
     "name": "Vishal Bhosle",
     "url": "https://vishalb.dev",
     "tagline": "Expert Full Stack Software Developer"
+  },
+  {
+    "name": "Vishal Kumar Singh",
+    "url": "https://vishalvoid.com",
+    "tagline": "Full Stack Developer"
   },
   {
     "name": "Vishal Rai",
